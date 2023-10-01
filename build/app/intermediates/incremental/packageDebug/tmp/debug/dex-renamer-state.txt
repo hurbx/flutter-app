@@ -1,0 +1,4 @@
+#Sun Sep 24 21:58:11 CLST 2023
+base.0=C\:\\Users\\Mike\\Documents\\CURSO DART\\FLUTTER_PERSONAL\\Hugo_Urbina\\app_hugo\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
